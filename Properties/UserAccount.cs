@@ -25,7 +25,14 @@ public class UserAccount
         }
     }
 
-    public bool IsVIP => Balance >= 10000;
+    public bool IsVIP
+    {
+        get {
+            if (_balance > 10000)
+                return true;
+            return false;
+            }
+    }
 
     public DateTime CreatedDate { get; }
 
