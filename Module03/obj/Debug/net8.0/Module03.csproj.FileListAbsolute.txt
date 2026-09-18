@@ -1,0 +1,15 @@
+C:\Users\new user\Desktop\Module03\bin\Debug\net8.0\Module03.exe
+C:\Users\new user\Desktop\Module03\bin\Debug\net8.0\Module03.deps.json
+C:\Users\new user\Desktop\Module03\bin\Debug\net8.0\Module03.runtimeconfig.json
+C:\Users\new user\Desktop\Module03\bin\Debug\net8.0\Module03.dll
+C:\Users\new user\Desktop\Module03\bin\Debug\net8.0\Module03.pdb
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.AssemblyInfoInputs.cache
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.AssemblyInfo.cs
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.csproj.CoreCompileInputs.cache
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.dll
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\refint\Module03.dll
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.pdb
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.genruntimeconfig.cache
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\ref\Module03.dll
+C:\Users\new user\Desktop\Module03\obj\Debug\net8.0\Module03.csproj.Up2Date
